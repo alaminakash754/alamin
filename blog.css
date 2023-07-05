@@ -2,3 +2,11 @@
     background-color: tomato;
     padding: 5px solid blue;
 }
+.gitpush{
+    background-color: blueviolet;
+}
+.list{
+    text-align: center;
+    color: seagreen;
+    text-shadow: 5px seagreen;
+}
